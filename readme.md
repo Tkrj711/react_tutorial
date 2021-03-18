@@ -105,5 +105,5 @@ Typescriptの設定ファイル作成
 # type nul > src/index.html
 # cd src && mkdir components
 起動
-# npx webpack-dev-server
+# webpack-cli serve --mode development
 ```
