@@ -26,7 +26,7 @@ import { Configuration } from 'webpack';
 
 const config: Configuration = {
     context: path.join(__dirname, 'src'),
-    entry: './App.tsx',
+    entry: './index.tsx',
     output: {
         path: path.join(__dirname, 'dist'),
         filename: 'bundle.js',
@@ -46,7 +46,7 @@ const config: Configuration = {
     },
     devtool: "inline-source-map",
     devServer: {
-        contentBase: path.join(__dirname, 'static'),
+        contentBase: path.join(__dirname, 'src'),
         open: true,
         port: 3000,
     },
