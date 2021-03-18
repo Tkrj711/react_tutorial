@@ -1,4 +1,4 @@
-## SetUp TypeScript-React-Webpak
+## SetUp TypeScript-React-Webpack
 ``` dos
 # npm init -y
 # npm install --save react react-dom
