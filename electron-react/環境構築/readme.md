@@ -1,5 +1,5 @@
-## Electron ŠÂ‹«\’z
-‹N“®
+## Electron ç’°å¢ƒæ§‹ç¯‰
+èµ·å‹•
 ```dos
 npm start
 ```
