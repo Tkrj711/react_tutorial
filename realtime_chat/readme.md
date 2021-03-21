@@ -1,6 +1,6 @@
 ## リアルタイムチャット
 
-##build
+## build
 ```dom
 # npm install 
 # npm run build
