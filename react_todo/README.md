@@ -1,1 +1,1 @@
-# React�ō쐬����Todo�A�v���ł�
+# Reactで作成した、ToDoアプリです。
